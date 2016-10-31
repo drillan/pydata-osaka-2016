@@ -1,0 +1,27 @@
+Q1,どこからいらっしゃいましたか?,大阪,9
+Q1,どこからいらっしゃいましたか?,京都,7
+Q1,どこからいらっしゃいましたか?,兵庫,4
+Q1,どこからいらっしゃいましたか?,奈良,1
+Q2,"PyData.Osakaで取り上げたいtool, theme",Jupyter,20
+Q2,"PyData.Osakaで取り上げたいtool, theme",Viz一般,15
+Q2,"PyData.Osakaで取り上げたいtool, theme",pymc stan,13
+Q2,"PyData.Osakaで取り上げたいtool, theme",deep learning,13
+Q2,"PyData.Osakaで取り上げたいtool, theme",scikit-learn,11
+Q2,"PyData.Osakaで取り上げたいtool, theme",statsmodels,10
+Q2,"PyData.Osakaで取り上げたいtool, theme",pyarrow dask 大規模データ,9
+Q2,"PyData.Osakaで取り上げたいtool, theme","dataframe, sql, 前処理",7
+Q2,"PyData.Osakaで取り上げたいtool, theme",spark,5
+Q3,使う programming 言語,Python,19
+Q3,使う programming 言語,C++,12
+Q3,使う programming 言語,SQL,7
+Q3,使う programming 言語,Javascript,6
+Q3,使う programming 言語,Ruby,5
+Q3,使う programming 言語,R,4
+Q3,使う programming 言語,Julia,4
+Q3,使う programming 言語,SAS,3
+Q3,使う programming 言語,Excel,3
+Q4,使う 可視化tool,matplotlib,12
+Q4,使う 可視化tool,D3,11
+Q4,使う 可視化tool,ggplot,3
+Q4,使う 可視化tool,bokeh,2
+Q4,使う 可視化tool,shiny,1
